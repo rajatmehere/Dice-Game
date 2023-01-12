@@ -1,4 +1,4 @@
-# Pig_Game
+# Dice_Game
 
 /*
 GAME RULES:
